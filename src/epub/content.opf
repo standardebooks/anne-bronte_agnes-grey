@@ -43,14 +43,16 @@
 		<meta property="term" refines="#subject-4">sh2008105308</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh94007953</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Autobiography</meta>
+		<dc:description id="description">The story of a young woman's desire to walk the world.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			Agnes Grey, published in the month of December, 1847, is the debut novel of Anne Brontë, writing under the pseudonym of Acton Bell. Written 	largely based on Anne's own personal experiences as a governess, the novel tries to highlight what a governess' work entailed in the 1800s and the consequences it had on the protagonist.
+
+			Agnes, an eager young woman, tired of being treated as the youngest, and filled with overwhelming ambition, takes on work as a governess for the rich and cruel Bloomfields. The unprecedented and abysmal depravity with which she is treated, renders her lonely and isolated, missing her family, wanting to go back home.
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/767</dc:source>
-		<dc:source>https://archive.org/details/novelssistersbr01gaskgoog/</dc:source>
+		<dc:source>https://archive.org/details/novelssistersbr01gaskgoog</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -62,14 +64,13 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Anne_Bront%C3%AB</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79034991</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Robert Lewis Reid</dc:contributor>
+		<meta property="file-as" refines="#artist">Reid, Robert Lewis</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Robert_Reid_(American_painter)</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr2002007755</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+		<dc:contributor id="transcriber-1">David Price</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Price, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
 		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
