@@ -44,7 +44,7 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh94007953</meta>
 		<meta property="se:subject">Autobiography</meta>
-		<dc:description id="description">A young woman tries to become independent and support her family by working as a governess far from home. </dc:description>
+		<dc:description id="description">A young woman tries to become independent and support her family by working as a governess far from home.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">Agnes Grey, published in the month of December, 1847, is the debut novel of &lt;a href="https://standardebooks.org/ebooks/anne-bronte"&gt;Anne Brontë&lt;/a&gt;, writing under the pseudonym of Acton Bell. Written largely based on Anne’s own personal experiences as a governess, the novel tries to highlight what a governess’ work entailed in the 1800s and the consequences it had on the protagonist. Agnes, an eager young woman, tired of being treated as the youngest, and filled with overwhelming ambition, takes on work as a governess for the rich and cruel Bloomfields. The unprecedented and abysmal depravity with which she is treated, renders her lonely and isolated, missing her family, wanting to go back home.</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/767</dc:source>
