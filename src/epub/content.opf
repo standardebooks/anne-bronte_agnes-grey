@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/anne-bronte/agnes-grey</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2022-08-10T15:49:41Z</dc:date>
+		<meta property="dcterms:modified">2022-08-10T15:49:41Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -46,13 +46,14 @@
 		<meta property="se:subject">Autobiography</meta>
 		<dc:description id="description">A young woman tries to become independent and support her family by working as a governess far from home.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Agnes Grey, published in the month of December, 1847, is the debut novel of &lt;a href="https://standardebooks.org/ebooks/anne-bronte"&gt;Anne Bronte&lt;/a&gt;, writing under the pseudonym of Acton Bell. Written largely based on Anne’s own personal experiences as a governess, the novel tries to highlight what a governess’ work entailed in the 1800s and the consequences it had on the protagonist. Agnes, an eager young woman, tired of being treated as the youngest, and filled with overwhelming ambition, takes on work as a governess for the rich and cruel Bloomfields. The unprecedented and abysmal depravity with which she is treated, renders her lonely and isolated, missing her family, wanting to go back home.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Agnes Grey&lt;/i&gt;, published in the month of December, 1847, is the debut novel of &lt;a href="https://standardebooks.org/ebooks/anne-bronte"&gt;Anne Brontë&lt;/a&gt;, writing under the pen name of Acton Bell. Written largely based on Anne’s own personal experiences as a governess, the novel tries to highlight what a governess’ work entailed in the 1800s and the consequences it had on the protagonist.&lt;/p&gt;
+			&lt;p&gt;Agnes, an eager young woman, tired of being treated as the youngest and filled with overwhelming ambition, takes on work as a governess for the rich and cruel Bloomfields. The unprecedented and abysmal depravity with which she is treated renders her lonely and isolated, missing her family, wanting to go back home.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/767</dc:source>
 		<dc:source>https://archive.org/details/novelssistersbr01gaskgoog</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">68946</meta>
+		<meta property="se:reading-ease.flesch">60.38</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Agnes_Grey</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anne-bronte_agnes-grey</meta>
 		<dc:creator id="author">Anne Brontë</dc:creator>
@@ -77,6 +78,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
