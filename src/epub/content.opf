@@ -52,8 +52,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/767</dc:source>
 		<dc:source>https://archive.org/details/novelssistersbr01gaskgoog</dc:source>
-		<meta property="se:word-count">68946</meta>
-		<meta property="se:reading-ease.flesch">60.38</meta>
+		<meta property="se:word-count">68921</meta>
+		<meta property="se:reading-ease.flesch">60.48</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Agnes_Grey</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/anne-bronte_agnes-grey</meta>
 		<dc:creator id="author">Anne Brontë</dc:creator>
